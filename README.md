@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/galehpro/galehpro/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/galehpro/galehpro/blob/output/snake.svg)
 
 ###
