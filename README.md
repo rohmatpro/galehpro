@@ -38,7 +38,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/galehpro/galehpro/output/snake.svg" alt="Snake animation" />
+<img href="[https://raw.githubusercontent.com/galehpro/galehpro/output/snake.svg](https://raw.githubusercontent.com/galehpro/galehpro/output/snake.svg)" alt="Snake animation" />
 
 ###
-Profile Readme Generator
