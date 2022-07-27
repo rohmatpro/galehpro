@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is GalehPro and I'm a Developer</h2>
+<h2 align="left">Hi 👋! My name is Galeh Rizky Sukabumi and I'm a Developer at MPOTech Philipines</h2>
+<h2 align="left">Developer Judon</h2>
 
 ###
 
